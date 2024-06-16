@@ -1,8 +1,8 @@
 ## StuntGuard Introduction
 
-<img src="stuntguard_banner.png" width="100%" />
+<img alt="StuntGuard Banner" src="stuntguard_banner.png" width="100%" />
 
-StuntGuard is dedicated android application to help parent to detect stunting on their child with Machine Learning's power. StuntGuard give flexibility to monitoring the child growth and help them with activity reminder along with dedicated history for each child to keep parent eyes on their child track growth for time to time.
+StuntGuard is dedicated android application to help parent to detect stunting on their child with Machine Learning's power. StuntGuard give flexibility to monitoring the child growth and help parent with Customizable Activity Mission along with dedicated history for each child to keep parent eyes on their child track growth for time to time.
 
 ## StuntGuard Team Member
 |            Member           | Student ID |        Path        | Contact |                                                   
